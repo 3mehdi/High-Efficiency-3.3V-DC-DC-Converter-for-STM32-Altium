@@ -1,6 +1,6 @@
 # High-Efficiency-3.3V-DC-DC-Converter-for-STM32-Altium
 
-English explanation:
+
 
 This schematic is for a 3.3V DC-DC switching converter using the LM2576-3.3V IC. The converter can accept an input voltage of 7 to 40 V and output up to 3 A of current. It is suitable for designs that use STM32 microcontrollers or other 3.3V-powered devices.
 
